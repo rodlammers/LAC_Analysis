@@ -1,0 +1,6 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+6,"tmean_day",3,"ppt_week",2.1
+7,"tmean_percent_normal",1,"Ordinal_date",1.7
+4,"tmean_month",2,"site_type_num",1.42
+6,"tmean_day",4,"tmean_month",1.39
+4,"tmean_month",1,"Ordinal_date",1.26

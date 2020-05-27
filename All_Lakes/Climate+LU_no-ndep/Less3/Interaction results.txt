@@ -1,0 +1,11 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+12,"site_type_num",3,"tmean_month",3.81
+10,"snow2011",3,"tmean_month",1.43
+2,"tmean_day",1,"ppt_week",1.4
+13,"ppt_day",6,"snow1992to2011",1.09
+8,"max_depth_m",2,"tmean_day",1.04
+14,"tmean_percent_normal",4,"Ordinal_date",0.98
+12,"site_type_num",9,"elevation_m",0.85
+4,"Ordinal_date",3,"tmean_month",0.67
+9,"elevation_m",1,"ppt_week",0.66
+10,"snow2011",4,"Ordinal_date",0.57

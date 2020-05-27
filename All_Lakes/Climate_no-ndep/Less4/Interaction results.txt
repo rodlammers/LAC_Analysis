@@ -1,0 +1,5 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+9,"site_type_num",2,"tmean_month",9.15
+8,"Max_SWE",1,"ppt_week",2.37
+2,"tmean_month",1,"ppt_week",2.35
+6,"Ordinal_date",3,"tmean_day",1.85

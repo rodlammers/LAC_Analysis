@@ -1,0 +1,9 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+7,"Ordinal_date",3,"tmean_day",1.53
+4,"tmean_month",3,"tmean_day",1.45
+13,"eastMEAN",5,"max_depth_m",1.35
+6,"ppt_percent_normal",1,"ppt_week",1
+11,"elevation_m",7,"Ordinal_date",0.99
+9,"tmean_percent_normal",5,"max_depth_m",0.87
+9,"tmean_percent_normal",7,"Ordinal_date",0.74
+7,"Ordinal_date",2,"lake_perc_area",0.69

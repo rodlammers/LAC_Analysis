@@ -1,0 +1,15 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+14,"NO3_N",2,"snow2011",0.42
+14,"NO3_N",8,"tmean_month",0.29
+4,"lake_perc_area",2,"snow2011",0.2
+14,"NO3_N",11,"Max_SWE",0.16
+14,"NO3_N",3,"radSUM",0.13
+14,"NO3_N",9,"tmean_day",0.11
+12,"Difference_SnowFree",1,"max_depth_m",0.1
+16,"TDP_P",15,"NtoP",0.08
+4,"lake_perc_area",1,"max_depth_m",0.08
+16,"TDP_P",14,"NO3_N",0.07
+17,"TEMP",15,"NtoP",0.06
+14,"NO3_N",7,"ppt_week",0.06
+9,"tmean_day",4,"lake_perc_area",0.06
+17,"TEMP",12,"Difference_SnowFree",0.05

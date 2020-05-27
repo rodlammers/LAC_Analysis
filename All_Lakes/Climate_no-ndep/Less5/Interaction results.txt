@@ -1,0 +1,4 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+2,"tmean_month",1,"ppt_week",2.42
+8,"Max_SWE",2,"tmean_month",1.17
+6,"ppt_percent_normal",5,"tmean_percent_normal",1.16

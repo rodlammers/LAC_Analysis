@@ -1,0 +1,11 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+2,"NO3_N",1,"Max_SWE",115.84
+7,"Difference_SnowFree",4,"TEMP",2.9
+4,"TEMP",3,"NtoP",2.89
+13,"tmean_day",3,"NtoP",1.78
+11,"TDN",1,"Max_SWE",1.33
+6,"tmean_month",5,"TDP_P",0.69
+8,"DOC",1,"Max_SWE",0.63
+3,"NtoP",2,"NO3_N",0.43
+4,"TEMP",1,"Max_SWE",0.37
+5,"TDP_P",4,"TEMP",0.34

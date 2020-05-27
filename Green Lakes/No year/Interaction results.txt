@@ -1,0 +1,15 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+11,"NO3_N",8,"Max_SWE",100.21
+15,"TEMP",12,"NtoP",3.33
+15,"TEMP",9,"Difference_SnowFree",2.59
+12,"NtoP",5,"tmean_day",2.18
+14,"TDP_P",3,"tmean_month",1.08
+13,"TDN",8,"Max_SWE",0.79
+12,"NtoP",11,"NO3_N",0.7
+15,"TEMP",8,"Max_SWE",0.55
+13,"TDN",3,"tmean_month",0.4
+15,"TEMP",14,"TDP_P",0.37
+12,"NtoP",1,"Ordinal_date",0.35
+16,"site_type_num",12,"NtoP",0.32
+11,"NO3_N",3,"tmean_month",0.32
+15,"TEMP",4,"ppt_percent_normal",0.31

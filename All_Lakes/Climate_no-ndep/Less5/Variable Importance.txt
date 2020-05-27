@@ -1,0 +1,9 @@
+"var","rel.inf"
+"ppt_week",19.0937387010439
+"tmean_month",17.2167105568245
+"tmean_day",14.2273439967018
+"ppt_percent_normal",11.942589337819
+"Ordinal_date",11.6241411559854
+"tmean_percent_normal",11.0269991900445
+"ppt_day",9.21078851283962
+"Max_SWE",5.65768854874135

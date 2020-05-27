@@ -1,0 +1,6 @@
+"var1.index","var1.names","var2.index","var2.names","int.size"
+2,"TEMP",1,"NtoTP",1.32
+9,"NO3_N",3,"Ordinal_date",0.43
+6,"tmean_week",2,"TEMP",0.3
+3,"Ordinal_date",2,"TEMP",0.29
+4,"ppt_month",2,"TEMP",0.24
